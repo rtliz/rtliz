@@ -3,7 +3,7 @@
   ### 👋 Hi, I'm Tanatorn Kitmanamettamit!
   
   <p>
-    I'm a highly passionate Full Stack Developer with 5 years of experience, <br/>
+    I'm a highly passionate Software Engineer with 5 years of experience, <br/>
     specializing in building complex systems and application modernization. <br/>
     I thrive on solving intricate problems and creating high-performance products.
   </p>
