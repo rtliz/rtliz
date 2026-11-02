@@ -20,8 +20,6 @@
 
   <p>
     <a href="https://www.tanatornk.com" target="_blank">Website</a>  
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="mailto:tanatornkab2019@gmail.com" target="_blank">Email</a>  
   </p>
 
 </div>
