@@ -2,11 +2,10 @@
 
   ### 👋 Hi, I'm Tanatorn Kitmanamettamit!
   
-  <p>
-    I'm a highly passionate Software Engineer with 5 years of experience, <br/>
-    specializing in building complex systems and application modernization. <br/>
-    I thrive on solving intricate problems and creating high-performance products.
-  </p>
+<p>
+  Senior Software Engineer (5+ years) specializing in backend systems and application modernization. <br/>
+  I build with NestJS, Golang, and AWS.
+</p>
 
 </div>
 
